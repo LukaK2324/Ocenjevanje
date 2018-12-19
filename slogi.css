@@ -1,0 +1,51 @@
+#GlavniOkvir
+{
+	background-color:none;
+	margin:0 auto 0 auto;
+	width:1000px;
+	height:400px;
+}
+#Telo{
+	min-height:300px;
+	width:1000px;
+	display:flex;
+}
+#LevaPlosca
+{
+	background-color:blue;
+	min-height:300px;
+	width:200px;
+}
+#DesnaPlosca{
+	background-color:grey;
+	min-height:300px;
+	width:800px;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+#SpodnjaPlosca{
+	background-color:red;
+	height:100px;
+	width:1000px;
+	display:flex; 
+}
+h1
+{
+	padding-left:400px;
+	padding-top:10px;
+	color:white;
+}
+table, th, td
+{
+	border:1px solid black;
+	border-collapse:collapse;
+	background-color:white;
+	font-size:30px;
+	margin-left:80px;
+}
+ol
+{
+	font-size:30px;
+	padding-left:50px;
+	padding-bottom:20px;
+}
